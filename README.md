@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**BenjaminKyamanywa/BenjaminKyamanywa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m [**Benjamin**](https://benjaminkyamanywa.com/), a frontend developer blending design and technology into stunning, high-performance applications.
 
-Here are some ideas to get you started:
+With a keen eye for detail and a growth mindset, I’m dedicated to crafting software that’s both functional and delivers exceptional user experiences. I thrive on turning complex challenges into scalable solutions and continually seek new ways to innovate and improve.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I’m not coding, you’ll find me diving into the latest tech trends, building exciting side projects, or collaborating on projects with fellow enthusiasts.
+
+### ⚡ Fun Facts:
+
+- 🏊 I’m an avid workout fan.
+- 🌟 My all-time favorite anime is *Swallowed Star*.
+- 📘 I get lost reading interesting technical books.
