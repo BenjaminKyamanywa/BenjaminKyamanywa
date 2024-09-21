@@ -6,7 +6,7 @@ With a keen eye for detail and a growth mindset, I’m dedicated to crafting sof
 
 When I’m not coding, you’ll find me diving into the latest tech trends, building exciting side projects, or collaborating on projects with fellow enthusiasts.
 
-### ⚡ Fun Facts:
+#### ⚡ Fun Facts:
 
 - 🏊 I’m an avid workout fan.
 - 🌟 My all-time favorite anime is *Swallowed Star*.
